@@ -88,4 +88,4 @@ function main() {
   todoItems.forEach(item => bindEvents(item));
 }
 
-main();
+main();       
